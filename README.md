@@ -12,12 +12,14 @@ StyleGAN3 models of the visionary artist Michael "Colory" Krebs.
 all models are trained with styleGAN3-t.
 ### Colory64
 based on: -<br>
-Trained for 2000 kimg<br>
-Source Dataset: (150 image crops, mixed styles)<br>
-model .pkl file: <br>
+Trained for 2000 kimg*<br>
+Source Dataset: 150 image crops, mixed styles<br>
+<a href="https://www.dropbox.com/sh/u563ztcuiuz8a7c/AACwFeRg-Ga9bNNhtNHVk_sKa?dl=0">Downloads</a><br>
 ### ColoryOrange512
 based on: -<br>
-Trained for 500 kimg<br>
+Trained for 500 kimg*<br>
 Source Dataset :(50 image crops, orange style only)<br>
-model .pkl file: <br>
+<a href="https://www.dropbox.com/sh/1lot0m2b56hqj4j/AAABjdBzWKWiGoN7JCfHF6qFa?dl=0">Downloads</a><br>
+<p>
+* still training.
 
