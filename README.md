@@ -21,7 +21,7 @@ Trained for 500 kimg*<br>
 Source Dataset :(50 image crops, orange style only)<br>
 <a href="https://www.dropbox.com/sh/1lot0m2b56hqj4j/AAABjdBzWKWiGoN7JCfHF6qFa?dl=0">Downloads</a><br>
 <p>
-* still training.
+* training continues, updates in the drive folders.
 
 ## Available Real-ESRGAN Models:
   tba
